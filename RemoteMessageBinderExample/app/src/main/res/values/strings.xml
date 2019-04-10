@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RemoteMessageBinderExample</string>
+    <string name="service_demo">Service Demo</string>
+</resources>
